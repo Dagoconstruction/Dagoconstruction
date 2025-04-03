@@ -41,7 +41,7 @@ h1 {
 
 /* Accueil */
 .home-page {
-    background-image: url("B23F2DE8-8EA0-45CD-B7AB-538FD6698DD3.jpg");
+    background-image: url("file/B23F2DE8-8EA0-45CD-B7AB-538FD6698DD3.jpg");
     background-size: cover;
     background-position: center;
     min-height: 100vh;
@@ -98,7 +98,7 @@ h1 {
 
 /* Contact */
 .contact-page {
-    background-image: url("end.jpg");
+    background-image: url("file/end.jpg");
     background-size: cover;
     background-position: center;
     min-height: 100vh;
@@ -142,8 +142,8 @@ background-color: #faf3f3;
 .texte {
 background-color: #f4b400;
 width: 500px;
-position:relative;
-left:6%;
+position: relative;
+left: 4%;
 }
 .serv {
     background-color: #333;
